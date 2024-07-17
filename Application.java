@@ -15,6 +15,22 @@ public class HelloWorld {
         // println() prints the following line to the output screen
         System.out.println("You entered: " + number);
     }
+
+#feature202 by sai for reports module in oct2023
+public class MultiplyTwoNumbers {
+
+    public static void main(String[] args) {
+
+        float first = 1.5f;
+        float second = 2.0f;
+
+        float product = first * second;
+
+        System.out.println("The product is: " + product);
+    }
+#feature202 end
+}
+
 #feature201 changes by prashu on payment gateway module oct2023
 import java.util.Scanner;
 
@@ -35,3 +51,4 @@ public class HelloWorld {
     }
 }
 feature201 changes end
+
